@@ -40,10 +40,7 @@ Installation Requirements:
 pixtend uses the wiringPi Library (https://projects.drogon.net/raspberry-pi/wiringpi/)
 Please install it before building this package:
 
-sudo apt-get install git-core
-git clone git://git.drogon.net/wiringPi
-cd wiringPi
-./build
+sudo apt-get install wiringpi
 
 pxauto, pxauto2s and pxauto2l use the curses Library.
 Please install the following Packages:
